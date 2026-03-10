@@ -1,0 +1,21 @@
+# Data Wrangling & Analysis
+pandas
+numpy
+statsmodels
+
+# NLP Core
+spacy
+nltk
+gensim
+
+# Economics-Specific & Advanced NLP
+transformers
+sentence-transformers
+beautifulsoup4
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+openpyxl
