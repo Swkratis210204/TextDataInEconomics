@@ -9,4 +9,5 @@ CLAUDE.md
 myenv/
 embeddings.npy
 
-cc.el.300.bin.gz
+cc.el.300.vec
+cc.el.300.vec.gz
