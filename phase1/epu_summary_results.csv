@@ -1,0 +1,10 @@
+﻿Metric,Value,p-value,Significant
+"Pearson r (full sample, detrended)",-0.1341,0.0001,***
+"Spearman r (full sample, detrended)",+0.1413,<0.0001,***
+Pearson r (crisis 2010-2015),-0.2801,<0.0001,***
+Spearman r (crisis 2010-2015),-0.1685,0.0027,**
+Pearson r (post-crisis 2016-2026),+0.2859,<0.0001,***
+Spearman r (post-crisis 2016-2026),+0.3326,<0.0001,***
+OLS coef (crisis 2010-2015),-0.0802,0.0016,***
+OLS coef (post-crisis 2016-2026),+0.0237,<0.0001,***
+Granger p-value lag=4 (post-crisis),0.0579,—,marginal
